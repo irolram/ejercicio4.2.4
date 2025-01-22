@@ -45,7 +45,7 @@ class Coche(color:String,
 
 fun main(){
 
-    /*
+
 
     val coche2 = Coche("verde", "", 100, 3, "", "DEF4568")
     println(coche2)
@@ -53,7 +53,7 @@ fun main(){
     val coche3 = Coche("azul", "ford", 400, 7, "Focus", "GHI7898")
     println(coche3)
     val coche4 = Coche("azul", "ford", 400, 4, "Focus", "G7898")
-      */
+      
     val coche1 = Coche("Rojo", "bmv", 100, 4, "2008", "ABC1234")
     coche1.color = ""
 
